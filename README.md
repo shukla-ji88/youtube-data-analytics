@@ -41,7 +41,17 @@ This project explores YouTube trending video data using Python, Pandas, and Matp
 The dataset contains historical trending-video records. A video may appear on multiple dates, so record counts and summed views do not necessarily represent unique videos or unique lifetime views. Correlation does not imply causation.
 
 ## Findings
-Add verified findings from the notebook output here. Do not add conclusions until they have been checked against the actual results.
+Most-viewed record:
+Title: YouTube Rewind: The Shape of 2017 | #YouTubeRewind
+Views: 125,432,237
+Likes: 2,912,710
+Comments: 807,558
+Total records: 33089
+Unique videos: 16307
+Total views: 32,967,977,200
+Average views: 996,342.51
+Average likes: 25,587.62
+Average comments: 2,524.78
 
 ## Visualizations
 
