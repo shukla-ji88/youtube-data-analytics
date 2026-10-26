@@ -42,3 +42,9 @@ The dataset contains historical trending-video records. A video may appear on mu
 
 ## Findings
 Add verified findings from the notebook output here. Do not add conclusions until they have been checked against the actual results.
+
+## Visualizations
+
+![Top videos by views](charts/top_10_videos_by_views.png)
+
+![Category performance](charts/category_performance.png)
